@@ -1,6 +1,6 @@
-# theWidget
+# ESP Widget
 
-This is a minimal set of scripts used to run "the Widget".
+This is a minimal set of scripts used to run "the ESP Widget".
 
 The "widget" is a device based on a Wemos D1 Mini (ESP8266).  It consists of...
 
