@@ -13,3 +13,13 @@ It uses MicroPython to control Wifi setup and operation of the device.
 <img src="https://github.com/joewez/ESP-Widget/blob/master/pic01.jpg" width=605 height=454></img>
 <img src="https://github.com/joewez/ESP-Widget/blob/master/pic02.jpg" width=605 height=454></img>
 <img src="https://github.com/joewez/ESP-Widget/blob/master/pic03.jpg" width=605 height=454></img>
+
+The purpose of the device is to read a constantly updating document from the network and execute
+the commands contained within.  The command allow you to...
+
+    - Display text on the OLED
+    - Change the color of the neopixel
+    - Play a tone
+    - etc...
+    
+   
